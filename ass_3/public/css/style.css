@@ -1,0 +1,15 @@
+header{
+    background-color: darkgoldenrod;
+    
+}
+
+ul,li{
+    display: inline-block;
+}
+li{
+    width: 150px;
+}
+a{
+    color:white;
+    text-decoration: none;
+}
