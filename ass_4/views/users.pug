@@ -1,0 +1,8 @@
+extends layout/mainlayout.pug  
+
+block content 
+     
+     h1 Welcome To Users Page 
+        each pro in product 
+          ul 
+             li #{pro.title}
